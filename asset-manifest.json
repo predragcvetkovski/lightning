@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/predragcvetkovski/lightning/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/predragcvetkovski/lightning/static/js/main.69d77c08.chunk.js",
+    "main.js.map": "/predragcvetkovski/lightning/static/js/main.69d77c08.chunk.js.map",
+    "runtime-main.js": "/predragcvetkovski/lightning/static/js/runtime-main.1598179a.js",
+    "runtime-main.js.map": "/predragcvetkovski/lightning/static/js/runtime-main.1598179a.js.map",
+    "static/js/2.b010fd08.chunk.js": "/predragcvetkovski/lightning/static/js/2.b010fd08.chunk.js",
+    "static/js/2.b010fd08.chunk.js.map": "/predragcvetkovski/lightning/static/js/2.b010fd08.chunk.js.map",
+    "static/js/3.0bdc9e73.chunk.js": "/predragcvetkovski/lightning/static/js/3.0bdc9e73.chunk.js",
+    "static/js/3.0bdc9e73.chunk.js.map": "/predragcvetkovski/lightning/static/js/3.0bdc9e73.chunk.js.map",
+    "index.html": "/predragcvetkovski/lightning/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/predragcvetkovski/lightning/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b010fd08.chunk.js.LICENSE.txt": "/predragcvetkovski/lightning/static/js/2.b010fd08.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/predragcvetkovski/lightning/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1598179a.js",
+    "static/js/2.b010fd08.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.69d77c08.chunk.js"
+  ]
+}
